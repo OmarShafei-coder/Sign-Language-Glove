@@ -26,6 +26,8 @@ Mazidi AVR book
 
 ATmega32 Datasheet
 
+https://www.youtube.com/watch?v=DoYnz0GYN1w&t=11s
+
 https://www.javatpoint.com/java-tutorial
 
 https://www.tutorialspoint.com/android/android_text_to_speech.htm
