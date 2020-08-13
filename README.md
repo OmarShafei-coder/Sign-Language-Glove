@@ -16,7 +16,11 @@ Mazidi AVR book
 ATmega32 Datasheet
 
 https://www.javatpoint.com/java-tutorial
+
 https://www.tutorialspoint.com/android/android_text_to_speech.htm
+
 https://developer.android.com/guide/topics/connectivity/bluetooth
+
 https://github.com/android/connectivity-samples/tree/master/BluetoothChat
+
 https://www.learnhowtoprogram.com/android/introduction-to-android/introduction-to-xml-and-android-layouts
