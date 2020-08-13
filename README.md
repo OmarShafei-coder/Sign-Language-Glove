@@ -2,14 +2,25 @@
 We made a glove that take the sign of the hand using a microcontroller, translate it to a text, send this text via Bluetooth to a mobile app to be shown in the app, and said
 # Hardware Components
 ATmega32 Micro-controller
+
 Flex Sensor
+
 HC05 Bluetooth Module
+
 Resistors
+
 Capacitors
+
 Regulator(5V)
+
 Battery
+
 Crystal Oscillator
+
 Glove
+
+# Android App
+https://github.com/OmarShafei-coder/SignToSpeech
 # Resources
 Mazidi AVR book
 
