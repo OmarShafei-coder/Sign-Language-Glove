@@ -1,5 +1,5 @@
 # Sign-Language-Glove
-We made a glove that take the sign of the hand using a microcontroller, translate it to a text, send this text via Bluetooth to a mobile app to be shown in the app, and said
+We made a glove that takes the sign of the hand using a microcontroller, translate it to a text, send this text via Bluetooth to a mobile app to be shown in the app, and saidWe made a glove that takes the sign of the hand using a microcontroller(ATmega32), translates it to a text, sends this text via Bluetooth to a mobile app to be shown on the screen, and spoken.
 # Hardware Components
 ATmega32 Micro-controller
 
